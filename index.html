@@ -11,23 +11,7 @@
 		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
 		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
 		<style type=’text/css’>
-// Find all YouTube videos
-var $allVideos = $("iframe[src^='//www.youtube.com']"),
 
-    // The element that is fluid width
-    $fluidEl = $("body");
-
-// Figure out and save aspect ratio for each video
-$allVideos.each(function() {
-
-  $(this)
-    .data('aspectRatio', this.height / this.width)
-
-    // and remove the hard coded width/height
-    .removeAttr('height')
-    .removeAttr('width');
-
-});
 
 // When the window is resized
 $(window).resize(function() {
@@ -87,10 +71,10 @@ $(window).resize(function() {
 								<section>
 									
 									
-										<div class="video-container">
+										<div class="wrapper">
 										
 											<iframe width="560" height="315" src="https://www.youtube.com/embed/2JLK8BNx1iQ" frameborder="0" allowfullscreen></iframe>
-										<break><P><p></div>
+										<break><P><p>
 										
 											<iframe width="560" height="315" src="https://www.youtube.com/embed/KGgRgrurRfQ" frameborder="0" allowfullscreen></iframe>
 										<break><p>
