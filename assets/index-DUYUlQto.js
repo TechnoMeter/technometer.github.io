@@ -16,7 +16,7 @@ So I built this portfolio to bring back that glossy, translucent magic.
 
 Shout-out to a few devs who inspired this retro-desktop trend:
 • renish47 – windows95_portfolio 
-• kundan05 – Windows XP Portfolio (TypeScript)
+• kundan05 – kundan-xp
 • srinibasbiswal – Portfolio_OS_Theme
 • UnMugViolet - PortfolioXP
 
