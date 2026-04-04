@@ -1,5 +1,8 @@
 # Windows Vista Aero Portfolio
 
+<img width="2559" height="1598" alt="image" src="https://github.com/user-attachments/assets/1943c48f-1dae-4b94-ba84-4a750f9c3439" />
+
+
 A nostalgic, high-fidelity recreation of the Windows Vista "Aero" interface, built as a personal portfolio. This project leverages modern web technologies to simulate a desktop environment, complete with translucent glass effects, draggable windows, and functional mini-apps.
 
 ## 🌟 Features
