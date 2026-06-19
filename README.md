@@ -42,3 +42,7 @@ A nostalgic, high-fidelity recreation of the Windows Vista "Aero" interface, bui
 - **Vite**: Ultra-fast frontend tooling for development and bundling.
 
 ## Built with 💙 by Shriram Govindarajan
+
+## Copyright
+**Copyright (c) 2026 [Shriram Govindarajan](https://shriram.is-a.dev). All Rights Reserved.**
+This repository is available for review purposes only in connection with job applications. No license is granted to use, copy, distribute, or modify this code.
