@@ -45,6 +45,7 @@ A nostalgic, high-fidelity recreation of the Windows Vista "Aero" interface, bui
 - **Global Language Switcher**: Add dynamic internationalization (i18n) to toggle the entire OS interface between English (EN) and German (DE).
 - **Theme Integration**: Introduce Dark and Light mode toggles (e.g., an "Aero Night" aesthetic) adapting to user system preferences.
 - **Codebase Refactoring**: Break down the monolithic `App.jsx` architecture into smaller, modular component files and context providers for enhanced maintainability and scalability.
+- **Free-Scaling Window Borders**: Implementing free-scaling window borders with a custom `ResizeObserver` to allow users to resize windows beyond the current fixed constraints, enabling a more flexible workspace.
 
 ## Built with 💙 by Shriram Govindarajan
 
