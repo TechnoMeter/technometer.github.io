@@ -4,6 +4,9 @@
 
 A nostalgic, high-fidelity recreation of the Windows Vista "Aero" interface, built as a personal portfolio. This project leverages modern web technologies to simulate a fully functional desktop environment, complete with translucent glass effects, fluid window transitions, live embedded applets, and reactive widget structures.
 
+## Live Demo
+[https://shriram.is-a.dev](https://shriram.is-a.dev) 
+
 ## 🌟 Features
 
 - **Aero Glass UI**: Authentically recreated glassmorphism using Tailwind CSS and backdrop filters, mimicking the classic Windows Vista aesthetic. Includes smooth opening/closing transitions and delayed window cleanup states.
