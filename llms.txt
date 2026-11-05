@@ -1,0 +1,34 @@
+# Shriram Govindarajan
+
+> Personal portfolio of Shriram Govindarajan, an AI and full-stack systems engineer and M.Sc. Computer Science candidate at the University of Stuttgart.
+
+Canonical website: https://shriram.is-a.dev/
+
+## About
+
+Shriram works on AI systems, retrieval-augmented generation (RAG), agentic workflows, and full-stack applications. He is a Junior AI Engineer at prelytics.eu (U-Glow GmbH), a published researcher, and founder of TechnoMeter.
+
+## Selected work
+
+- ShriRAGx: Agentic document intelligence platform using LangGraph, PostgreSQL, and ChromaDB. Live demo: https://shriram-agentic-rag.austriaeast.cloudapp.azure.com/
+- ColaCode: Real-time collaborative code editor. Live demo: https://colacode.netlify.app/
+- FSx: Go flash-sale backend. Source: https://github.com/TechnoMeter/FSx-flash-sale-backend-go/
+- Interactive thoracic CT discovery platform: https://lung-analysis-demo.vercel.app/
+- Springer research publication, DOI: https://doi.org/10.1007/978-981-97-8666-4_41
+
+## Skills
+
+Python, TypeScript, JavaScript, Go, SQL, React, Next.js, FastAPI, Prisma, LangChain, LangGraph, RAG, PostgreSQL, ChromaDB, Redis, Docker, and Playwright.
+
+## Education
+
+- M.Sc. Computer Science, University of Stuttgart; specialization in Autonomous Systems.
+- B.Tech. Computer Science, SRM Institute of Science and Technology.
+
+## Links
+
+- Portfolio: https://shriram.is-a.dev/
+- GitHub: https://github.com/technometer/
+- LinkedIn: https://linkedin.com/in/shriram-govindarajan/
+- YouTube: https://www.youtube.com/technometer/
+- Contact: mailto:govindarajanshriram@gmail.com

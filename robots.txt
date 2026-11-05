@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://shriram.is-a.dev/sitemap.xml
