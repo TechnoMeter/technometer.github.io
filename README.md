@@ -200,3 +200,7 @@ The production build includes `robots.txt` and `sitemap.xml` for
 - Microsoft Office Assistant "Clippy" is a registered trademark of Microsoft Corporation. Agent animations provided via open-source `clippyjs` for demonstration only.
 - Icons by [Lucide](https://lucide.dev) under the ISC license.
 - Built by **Shriram Govindarajan** (Junior AI Engineer @ prelytics.eu · M.Sc. Computer Science, University of Stuttgart).
+
+## COPYRIGHT
+
+Copyright (c) 2026 Shriram Govindarajan. All Rights Reserved. This repository is available for review purposes only in connection with job applications. No license is granted to use, copy, distribute, or modify this code.
