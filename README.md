@@ -190,12 +190,7 @@ The Control Panel provides an administrative systems suite with instant switchin
 ## Search Engine Indexing
 
 The production build includes `robots.txt` and `sitemap.xml` for
-`https://shriram.is-a.dev/`. After deployment, verify the custom domain in
-[Google Search Console](https://search.google.com/search-console/) and
-[Bing Webmaster Tools](https://www.bing.com/webmasters/), then submit the
-sitemap in each service. Search engines decide independently whether and when
-to index a site; submitting a sitemap helps discovery but does not guarantee
-inclusion or ranking.
+`https://shriram.is-a.dev/`.
 
 ---
 
